@@ -1,0 +1,10 @@
+- libreria para no tener que bajar y subir servicio 
+
+- libreria para mandar cuerpo del registro
+npm install body-parser --save
+
+- libreria mensajes personalizados mongoose
+npm install mongoose-unique-validator --save
+
+- Para henerar el token - JSONWEBTOKEN
+npm install jsonwebtoken --save
